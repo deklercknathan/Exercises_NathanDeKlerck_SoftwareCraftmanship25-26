@@ -1,0 +1,12 @@
+<EMPLOYEES>
+    <EMPLOYEE>
+        <NAME>ALICE</NAME>
+        <AGE>25</AGE>
+        <CITY>NEW YORK</CITY>
+    </EMPLOYEE>
+    <EMPLOYEE>
+        <NAME>BOB</NAME>
+        <AGE>30</AGE>
+        <CITY>LOS ANGELES</CITY>
+    </EMPLOYEE>
+</EMPLOYEES>
